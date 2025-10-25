@@ -1,2 +1,2 @@
-def main(argv) -> None:
+def main(argv=None) -> None:
     print('hewo')
